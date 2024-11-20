@@ -29,6 +29,7 @@ public class ContactManager {
     */
     public void clearContacts() {
         contactList = new Contact[0];
+        // contactList = null;
     }
 
 }
