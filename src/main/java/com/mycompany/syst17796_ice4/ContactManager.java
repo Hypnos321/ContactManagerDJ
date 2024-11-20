@@ -31,4 +31,5 @@ public class ContactManager {
         contactList = new Contact[0];
     }
 
+    // This is a new comment to test a Git repository.
 }
