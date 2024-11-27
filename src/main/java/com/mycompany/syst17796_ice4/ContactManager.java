@@ -32,4 +32,5 @@ public class ContactManager {
         // contactList = null;
     }
 
+    // New comment
 }
