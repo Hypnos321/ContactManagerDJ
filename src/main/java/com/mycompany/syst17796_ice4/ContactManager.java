@@ -33,4 +33,6 @@ public class ContactManager {
     }
 
     // New comment
+
+	// Another new comment
 }
