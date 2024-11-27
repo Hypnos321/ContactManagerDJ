@@ -34,5 +34,7 @@ public class ContactManager {
 
     // New comment
 
-	// Another new comment
+    // Another new comment
+    
+    //This is a comment made on the Friend branch. Testing..
 }
